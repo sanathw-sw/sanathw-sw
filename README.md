@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanąth WıJeşoørıya</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="senter"> <img src="https://komarev.com/ghpvc/?username=sanathw-sw&label=Profile%20views&color=0e75b6&style=flat" alt="sanathw-sw" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanathw-sw&label=Profile%20views&color=0e75b6&style=flat" alt="sanathw-sw" /> </p>
 
 - 📫 How to reach me **sanath2235559@gmail.com**
 

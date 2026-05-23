@@ -6,7 +6,7 @@
 - 📫 How to reach me **sanath2235559@gmail.com**
 
 - ⚡ Fun fact **Call me Sana!**
-
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sanath-wijesooriya-2410b234a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanath-wijesooriya-2410b234a" height="30" width="40" /></a>

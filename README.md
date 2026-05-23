@@ -5,6 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanathw-sw&label=Profile%20views&color=0e75b6&style=flat" alt="sanathw-sw" /> </p>
 
+- 🧑‍🎓 I’m an Undergraduate at SLIIT
 - 📫 How to reach me **sanath2235559@gmail.com**
 
 - ⚡ Fun fact **Call me Sana!**

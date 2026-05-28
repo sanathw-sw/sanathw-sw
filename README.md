@@ -8,7 +8,7 @@
 - 🧑‍🎓 I’m an Undergraduate at OUSL
 - 📫 How to reach me **sanath2235559@gmail.com**
 
-- ⚡ Fun fact **Call me Sana!**
+- ⚡ 🤘🎸!**
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
